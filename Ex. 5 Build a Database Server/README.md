@@ -2,9 +2,9 @@
 
 ## Author
 
-* **Name**: ________________________________
-* **Register Number**: _____________________
-* **Date of Submission**: __________________
+* **Name**: ESHWER M
+* **Register Number**: 212224040086
+* **Date of Submission**: 04-05-2026
 
 ---
 
@@ -82,13 +82,11 @@ Test the database server by connecting to it locally or remotely and performing 
 
 ## Workflow (Student Explanation)
 
-(Write the steps you followed in your own words)
-
-1. ---
-2. ---
-3. ---
-4. ---
-5. ---
+1. Create a Security Group for RDS
+2. Create a DB Subnet Group
+3. Launch an RDS MySQL DB Instance
+4. Configure Connectivity and Security
+5. Connect Web App to Database and Test
 
 ---
 
@@ -96,19 +94,22 @@ Test the database server by connecting to it locally or remotely and performing 
 
 ### Screenshot 1: EC2 Instance for Database Server
 
-(Insert Screenshot Here)
+<img width="1920" height="1200" alt="Screenshot (152)" src="https://github.com/user-attachments/assets/68fde608-de00-4415-a42e-b98438342480" />
+
 
 ---
 
 ### Screenshot 2: Database Service Running
 
-(Insert Screenshot Here)
+<img width="1920" height="1200" alt="Screenshot (155)" src="https://github.com/user-attachments/assets/00c12e8e-38ca-45c8-8461-930a8e3be9a4" />
+
 
 ---
 
 ### Screenshot 3: Sample Database and Table
 
-(Insert Screenshot Here)
+<img width="1920" height="1200" alt="Screenshot (158)" src="https://github.com/user-attachments/assets/452d3423-ddb3-4a5b-b86b-b775e408e4f9" />
+
 
 ---
 
